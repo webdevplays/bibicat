@@ -234,13 +234,14 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-1d1f05d4 .eleme
 .elementor-6 .elementor-element.elementor-element-e26575e .elementor-button:focus svg {
 	fill: var(--e-global-color-primary);
 }
-
+/*
 .elementor-6 .elementor-element.elementor-element-11fe22ef:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-6 .elementor-element.elementor-element-11fe22ef>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
 	background-image: url("../../2025/02/Ellipse-47.png");
 	background-position: bottom center;
 	background-size: contain;
 }
+*/
 
 .elementor-6 .elementor-element.elementor-element-11fe22ef>.elementor-element-populated {
 	transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -635,7 +636,7 @@ body.rtl .elementor-6 .elementor-element.elementor-element-ea7acdd {
 
 .elementor-6 .elementor-element.elementor-element-6fdee9e1:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-6 .elementor-element.elementor-element-6fdee9e1>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-	background-color: #FFED7C;
+	background-color: #ffffff;
 	background-image: url("/center.png");
 	background-position: center right;
 	background-repeat: no-repeat;
@@ -708,7 +709,7 @@ body.rtl .elementor-6 .elementor-element.elementor-element-ea7acdd {
 
 .elementor-6 .elementor-element.elementor-element-2addfc31:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-6 .elementor-element.elementor-element-2addfc31>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-	background-color: #FFED7C;
+	background-color: #ffffff;
 	background-image: url("/fire.gif");
 	background-position: bottom right;
 	background-repeat: no-repeat;
