@@ -234,14 +234,13 @@ body:not(.rtl) .elementor-6 .elementor-element.elementor-element-1d1f05d4 .eleme
 .elementor-6 .elementor-element.elementor-element-e26575e .elementor-button:focus svg {
 	fill: var(--e-global-color-primary);
 }
-/*
+
 .elementor-6 .elementor-element.elementor-element-11fe22ef:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-6 .elementor-element.elementor-element-11fe22ef>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-	background-image: url("../../2025/02/Ellipse-47.png");
 	background-position: bottom center;
 	background-size: contain;
 }
-*/
+
 
 .elementor-6 .elementor-element.elementor-element-11fe22ef>.elementor-element-populated {
 	transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
